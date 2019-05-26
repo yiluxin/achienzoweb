@@ -18,10 +18,15 @@ a {
 h1 {
     text-align: center;
     font-size: 4em;
+    color: #052b4a;
 }
 
 p {
     text-align: center;
     font-size: 1.5em;
-    color: darkgrey;
+    color: #052b4a;
+}
+
+#div {
+    margin-top: -200px;
 }
