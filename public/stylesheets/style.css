@@ -23,10 +23,11 @@ h1 {
 
 p {
     text-align: center;
-    font-size: 2em;
-    color: #052b4a;
+    font-size: 24px;
+    color: #000000;
 }
 
 #div {
     margin-top: -200px;
+    width: 30%;
 }
